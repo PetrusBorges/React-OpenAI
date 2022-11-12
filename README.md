@@ -4,7 +4,7 @@
 
 Repositório criado exclusivamente para criação automática de imagens com o [OpenAI](https://beta.openai.com) + ReactJS.
 
-https://user-images.githubusercontent.com/105453766/201255692-d0401af9-908e-4b0f-ba48-c9971ba587ef.mp4
+https://user-images.githubusercontent.com/105453766/201492935-0757f773-d279-4df9-804e-697ae40cfdba.mp4
 
 ## 📋 Projeto:
 
