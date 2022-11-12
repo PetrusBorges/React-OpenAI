@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/105453766/201221429-a7977cfc-ac56-4200-871a-57450e3396ba.png)
+![image](https://user-images.githubusercontent.com/105453766/201493016-49b51406-49ce-4327-86db-d4f7eb6e823a.png)
 
 # OpenAI 🤘
 
